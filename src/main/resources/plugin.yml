@@ -1,0 +1,7 @@
+name: SkSelfDestruct
+version: ${project.version}
+main: pl.workonfire.skript.SkSelfDestruct
+api-version: 1.13
+depend: [Skript]
+authors: [workonfire]
+description: A must-have Skript add-on.
